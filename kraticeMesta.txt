@@ -1,0 +1,16 @@
+Kratica;Mesto
+CE;Celje
+GO;"Nova Gorica"
+KK;Krško
+KP;Koper
+KR;Kranj
+LJ;Ljubljana
+MB;Maribor
+MS;"Murska Sobota"
+NM;"Novo mesto"
+PO;Postojna
+SG;"Slovenj Gradec"
+M;"Predstavništvo brez diplomatskega statusa"
+CMD;"Chef de Mission Diplomatique"
+CD;"Corps Diplomatique"
+P;Policija
