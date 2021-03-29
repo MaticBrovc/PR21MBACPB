@@ -13,3 +13,4 @@ SG;"Slovenj Gradec"
 M;"Predstavništvo brez diplomatskega statusa"
 CD;"Corps Diplomatique"
 P;Policija
+BR;"Brez Podatka"
