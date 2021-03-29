@@ -1,7 +1,7 @@
 Kratica;Mesto
 CE;Celje
 GO;"Nova Gorica"
-KK;Krško
+KK;Krsko
 KP;Koper
 KR;Kranj
 LJ;Ljubljana
@@ -14,3 +14,4 @@ M;"Predstavništvo brez diplomatskega statusa"
 CD;"Corps Diplomatique"
 P;Policija
 BR;"Brez Podatka"
+Drugo;Drugo
