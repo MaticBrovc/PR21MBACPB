@@ -51,3 +51,12 @@ Zanimalo pa nas je tudi, ali se kradejo bolj nova vozila(vozila, ki so mlajša o
 
 Pripravili pa smo še eno funkcijo, ki nam iz API-ja na podlagi imena mesta pridobiva število prebivalcev.  Kasneje bomo to uporabili za izračun verjetnosti kraje avtomobila po mestih.
 
+Svojo seminarsko smo izboljšali še z implementacijo  funkcije katera izračuna verjetnost, da osebi ukradejo vozilo z registracijo iz mesta X v letu Y. Naprimer ob klicanju funkcije verjetnostKraje(“Celje”, 2021) vrne rezultat 0,00011.
+
+Izračunali smo tudi število kraj avtomobilov glede na razred starost lastnika: mladi(18-21), srednji(22-50), star(50+) in ugotovili, da je večinski razred Srednja starost. Za lažjo predstavitev smo to predstavili grafično.
+![Kraja glede na starostni razred](kraja_glede_na_starost.png “Kraja glede na starostni razred)
+
+Zanimalo nas je tudi ali barva vozila vpliva na število kraj avtomobilov in ugotovili, da to vsekakor drži. Daleč največjo številko je imela siva barva, kar nam pove, da so vozila sive barve največkrat ukradena. Menimo, da so sivi avtomobili najbolj nevtrlani in manj opazni zato tudi temu tak rezultat.
+![Barva ukradenih](barva_ukradenih.png “Kraja glede na barvo vozila”)
+
+
