@@ -59,3 +59,5 @@ Izračunali smo tudi število kraj avtomobilov glede na razred starost lastnika:
 Zanimalo nas je tudi ali barva vozila vpliva na število kraj avtomobilov in ugotovili, da to vsekakor drži. Daleč največjo številko je imela siva barva, kar nam pove, da so vozila sive barve največkrat ukradena. Menimo, da so sivi avtomobili najbolj nevtrlani in manj opazni zato tudi temu tak rezultat.
 ![Barva ukradenih](barva_ukradenih.png "Glede na barvo vozila")
 
+## ZAKLJUČEK
+Seminarska spada v eno izmed tistih, ki je zelo zanimiva in se je ni bil problem lotiti. Glede na to, da nismo ravno ljubitelji statistike, smo bili na začetku malo skeptični glede same izvedbe, saj smo se bali, da bo vse zelo zahtevno in, da bomo potrebovali veliko znanja iz statistke. Izkazalo se je, da temu ni bilo tako in je bil cel proces izdelave projekta zelo zabaven in zanimiv. Ko smo na koncu primerjali svoje začetne hipoteze in končne izračunane rezultate, nas je malo presenetilo. V veliki večini primerov je bila naša hipoteza ovržena. Spoznali smo, da je podatkovno rudarjenje zelo uporabna veja računalništva in da z njim lahko dosežemo veliko stvari, ki jih kot človek ne bi bili zmožni. 
